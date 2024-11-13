@@ -22,7 +22,7 @@ This project aims to provide an accessible knowledge base for eInk devices, incl
 
 ## Live Website
 
-Visit the site at: [eink-guides.info](https://eink-guides.info)
+Visit the site at: [www.eink-guides.info](https://www.eink-guides.info)
 
 ## Features
 
@@ -111,5 +111,5 @@ If you want to contribute, please make a PR and request a review from `mrprov12`
 ### License
 Distributed under the MIT License. See LICENSE for more information.
 
-@@@ Contact
+### Contact
 For any questions or suggestions, please open an issue on this repository.
