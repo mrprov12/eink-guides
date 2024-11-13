@@ -1,3 +1,9 @@
+---
+title: Kindle Home
+parent: Home
+nav_order: 2
+---
+
 ## Table of Contents
 - [Jailbreaking your Kindle](#jailbreaking-your-kindle)
   - [LanguageBreak](#languagebreak)
