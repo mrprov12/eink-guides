@@ -66,6 +66,9 @@
 ---
 
 ### General UI/UX Enhancements
+- **Back Button Navigation in Annotations**: Adjust the back button functionality when viewing an annotation in the Reading Notes annotation menu for an epub to return the user to the Annotations menu for that specific document, rather than the main 'Reading Notes' menu. This change would allow for smoother navigation and uninterrupted workflow when reviewing annotations within a document.
+  *Requested by [inked_altitude](https://viwoods.com/pages/community#/post/eed9ca75-0d60-42c1-af67-816c3d18a288) on November 13, 2024*
+  
 - **Screen Rotation & Lock**: Enable screen rotation and lock options to prevent accidental presses when writing in different orientations. Locking options should include portrait, landscape, and 180° portrait modes, along with the ability to lock bottom buttons.
   *Requested by [u/inked_altitude](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/) on November 1, 2024*
 
