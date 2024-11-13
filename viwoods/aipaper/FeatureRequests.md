@@ -1,32 +1,57 @@
+# Version 3.1.4
+## Completed as of 3.1.4
+- **Completed in Version 3.1.4: Sideloading APKs**:
+    - v3.1.4: The upcoming version 3.1.4 is set to include Google Play Store support, which will further expand app availability for the device.  
+  *Originally suggested by [remi.flores](https://viwoods.com/pages/community#/post/e3d04190-3bb9-4b16-af57-455cef508ee2) on Oct 21, 2024*
+
+- **Completed in Version 3.1.4: Improved Highlighting Options**: Add adjustable-thickness options to the highlighter for tidy annotations.
+   - Adjustable thickness highlighter options completed in 3.1.4
+
+  *[Suggested by Jeffron on Oct 19, 2024](https://viwoods.com/pages/community#/post/f2d33f6e-ae94-4735-82e7-afc84f9c1691)*
+
+
+- **Partially Fulfilled in 3.1.4: Email App Support for Google Workspace**: Enable Google Workspace accounts in the email app for professional use.
+   - **3.1.4: Partially fulfilled through manual IMAP and POP3 configuration support.**
+
+  *[Suggested by jetchoy on Oct 30, 2024](https://viwoods.com/pages/community#/post/8bcf2b2f-c280-4112-a731-5cdb52dc5752)*
+-  **Partially Fulfilled in 3.1.4: Support for Microsoft Business Accounts**: Allow integration of Microsoft business accounts for mail and calendar access.
+   - **3.1.4: Partially fulfilled through manual IMAP and POP3 configuration support.**
+  *[Suggested by csperone on Nov 4, 2024](https://viwoods.com/pages/community#/post/8c814b79-0482-46da-a19c-2fce66c7df10)*
+
+- **Partially Fulfilled in 3.1.4: PDF Reader Enhancements**:
+  2. Clickable links within PDFs for navigation.
+      - Added in 3.1.4
+
+  *[Suggested by gradstudent_withADHD on Nov 12, 2024](https://viwoods.com/pages/community#/post/a33c27bb-a3ca-4ffc-afaf-6c705b454e16)*
+
+
 # Version 3.1.2
 ## Completed as of 3.1.2
+  
+- **Completed in Version 3.1.2: Sideloading APKs**:
+    - v3.1.2: Viwoods has introduced support for sideloading apps via the APKPure app, available in the app store. This allows users to download and install compatible APKs directly.
+  *Originally suggested by [remi.flores](https://viwoods.com/pages/community#/post/e3d04190-3bb9-4b16-af57-455cef508ee2) on Oct 21, 2024*
 
 - **Completed in Version 3.1.2: Direct Link to Community from Device**: A direct link to the Viwoods Community has been added to the device under a "Help" section, providing users with quick access to community resources and support.  
   *Originally requested by [Ben](https://viwoods.com/pages/community#/post/9bfe5700-ba11-4cc1-b7bf-9841641dad29) on Oct 17, 2024*
-
-  
-- **Completed in Version 3.1.2 and Enhanced in 3.1.4: Sideloading APKs**:
-    - v3.1.2: Viwoods has introduced support for sideloading apps via the APKPure app, available in the app store. This allows users to download and install compatible APKs directly.
-    - v3.1.4: The upcoming version 3.1.4 is set to include Google Play Store support, which will further expand app availability for the device.  
-  *Originally suggested by [remi.flores](https://viwoods.com/pages/community#/post/e3d04190-3bb9-4b16-af57-455cef508ee2) on Oct 21, 2024*
 
 
 - **[Completed by Oct 16th, 2024](https://viwoods.com/pages/community#/post/d4f23c54-b147-4746-9a73-3bb38ff25239): Translation of Handwritten Mathematical Expressions to LaTeX**: Enable the AI to recognize and translate handwritten mathematical expressions into properly formatted LaTeX code. This feature would significantly benefit students and professionals in mathematics and scientific fields who frequently use LaTeX for academic and professional writing, making the AiPaper a valuable tool in the education and scientific sectors.  
   *Originally suggested by [Mitchell Haas](https://viwoods.com/pages/community#/post/f59b2e68-2c4b-40d4-a6d8-6c8d70072826) on Sep 15, 2024*
 
 
-- **[Completed in Version 3.0.5] Kindle App Annotation Issue**: Fixed an issue in the Kindle app where selecting the 'annotate' option would briefly display the annotation toolbar before disappearing, preventing users from annotating Kindle screenshots. This update ensures that screenshots can be annotated and saved to Pickings as intended.  
+- **Completed in Version 3.0.5: Kindle App Annotation Issue**: Fixed an issue in the Kindle app where selecting the 'annotate' option would briefly display the annotation toolbar before disappearing, preventing users from annotating Kindle screenshots. This update ensures that screenshots can be annotated and saved to Pickings as intended.  
   *Originally requested [33rocks](https://viwoods.com/pages/community#/post/b6e18493-e615-4df8-8064-246c8b4bbd68) on Oct 11, 2024*
-
-
-
 
 
 ## Bugs as of 3.1.2
 - **[BUG] Sorting of Documents in Learning**: Improve the sorting functionality in the Learning section so that PDFs and ePubs can be accurately sorted in alphabetical order when "Ascending" is selected. This would ensure a more organized and intuitive document management experience.  
   *Originally reported by [rev.mark](https://viwoods.com/pages/community#/post/88fdc51c-1787-47a8-a0a7-5ca02b1b777d) on Oct 30, 2024*
+
+---
+---
   
-## Feature Requests as of v3.1.2
+# Feature Requests
 
 ### Table of Contents
 1. [General UI/UX Enhancements](#general-uiux-enhancements)
@@ -41,6 +66,12 @@
 ---
 
 ### General UI/UX Enhancements
+- **Screen Rotation & Lock**: Enable screen rotation and lock options to prevent accidental presses when writing in different orientations. Locking options should include portrait, landscape, and 180° portrait modes, along with the ability to lock bottom buttons.
+  *Requested by [u/inked_altitude](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/) on November 1, 2024*
+
+- **Additional Fonts & Custom Screensavers**: Add support for additional fonts and the option to set custom screensavers (.png files) for personalization.
+  *Requested by [u/inked_altitude](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/) on November 1, 2024*
+
 
 - **Wake Device by Removing Stylus**: Add an option to wake the device by detaching the magnetic stylus, in addition to the current functionality that turns the device on when opening the case.
   
@@ -66,14 +97,24 @@
 ---
 
 ### PDF and Document Management
+- **Functions Essential for Reading E-Books**:
+  1. Allow underlining by selecting text, similar to other e-readers. Current pen-based underlining creates separate annotations.
+  2. Add a content search feature within e-books for easier navigation.
+  3. Enable page-turning with a Bluetooth remote, which is a common feature in most Bluetooth-supported e-readers.
+  *Requested by [u/digitalparks](https://www.reddit.com/r/viwoods/comments/1ghhggt/functions_essential_for_reading_ebooks/) on October 31, 2024*
 
 - **PDF Reader Enhancements**:
   1. Add an in-document keyword search.
   2. Universal zoom for all PDF pages.
-  3. Clickable links within PDFs for navigation.
+  3.~~Clickable links within PDFs for navigation.~~
+      - Added in 3.1.4
   4. Continuous scrolling or quick page-jumping options.
 
   *[Suggested by gradstudent_withADHD on Nov 12, 2024](https://viwoods.com/pages/community#/post/a33c27bb-a3ca-4ffc-afaf-6c705b454e16)*
+
+
+- **Retain Zoom Settings for Documents**: Enable the device to remember the zoom setting for each document individually. This would eliminate the need to adjust the zoom level each time a document is opened, streamlining the reading experience.
+  *Originally suggested by [Jeffron](https://viwoods.com/pages/community#/post/f2d33f6e-ae94-4735-82e7-afc84f9c1691) on Oct 19, 2024*
 
 - **Remember Last Zoom Setting for PDFs**: Enable documents to remember the last zoom level set for easy reopening at a preferred zoom level.
 
@@ -109,6 +150,9 @@
 ---
 
 ### Daily and Calendar Functionality
+
+- **To-Do List Template in Paper**: Add a dedicated to-do list template in the Paper app, featuring checkboxes for tasks and lines for entering items. This would provide an organized format for task management without needing to upload custom templates.
+  *Originally suggested by [jetchoy](https://viwoods.com/pages/community#/post/0cdd56fa-334d-4ed3-8ef1-80f58725b46e) on Oct 30, 2024*
 
 - **Tags and Search in Daily Notes**: Add tagging for notes within Daily and search functionality for notes and tasks by tags (excluding handwritten text for privacy).
 
@@ -150,7 +194,16 @@
 
 ### Handwriting and Artistic Tools
 
-- **Improved Highlighting Options**: Add straight-line and adjustable-thickness options to the highlighter for tidy annotations.
+- **Landscape Writing Option**: Provide a landscape orientation option for writing, offering flexibility for users who prefer a horizontal layout.
+  *Originally suggested by [Joshua K](https://viwoods.com/pages/community#/post/62542861-46e0-4584-8141-4b26daba6ffd) on Oct 28, 2024*
+
+
+- **Scribble to Delete**: Implement a “scribble to delete” feature, similar to Boox, allowing users to quickly erase words by scribbling over them for more efficient editing.
+  *Requested by [jetchoy](https://www.reddit.com/r/viwoods/comments/1gnxxlk/lefthanded/) on Oct 30, 2024*
+
+
+- **Improved Highlighting Options**: Add straight-line ~~and adjustable-thickness~~ options to the highlighter for tidy annotations.
+   - Adjustable thickness highlighter options completed in 3.1.4
 
   *[Suggested by Jeffron on Oct 19, 2024](https://viwoods.com/pages/community#/post/f2d33f6e-ae94-4735-82e7-afc84f9c1691)*
 
@@ -170,21 +223,35 @@
 
 ### System and Connectivity Features
 
+- **User Manual Download Link**: Provide an option to download the user manual directly within the Learning section or from the support page. This would assist users who may have accidentally deleted the manual, ensuring they can easily access setup and usage instructions.
+  *Originally suggested by [ITreers](https://viwoods.com/pages/community#/post/4c62a3ae-7c03-482d-87c7-42ec494cf7d9) on Nov 13, 2024*
+
+- **Ebook Reading and Document Viewing App for Phone**: Develop a mobile app that allows users to access their eBooks and recently written documents on their phone. This feature would be helpful for users who need to reference materials when they don't have their tablet with them.
+  *Originally suggested by [Joshua K](https://viwoods.com/pages/community#/post/50b21297-1e1d-4561-a54d-017341b267d7) on Oct 28, 2024*
+
+- **Airdrop/Bluetooth Import Support for Images**: Enable a quick and easy way to import images from an iPhone or other devices via Bluetooth, directly into a note. This feature would be particularly useful for meeting notes, allowing users to take photos of presentation slides and add them seamlessly to their notes.
+  *Originally suggested by [Ben](https://viwoods.com/pages/community#/post/2f656afc-071b-4555-a665-d11dd3935a8a) on Oct 31, 2024*
+
+- **ChatGPT Account Integration**: Allow direct sign-in to ChatGPT accounts in the AiPaper system, with options to select preferred models for system-wide AI functions.
+  *Requested by [u/inked_altitude](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/) on November 1, 2024, and [u/digitalparks](https://www.reddit.com/r/viwoods/comments/1ghnnrl/regarding_chatgpt_usage/) on October 31, 2024*
+
+
 - **Server Location Selection**: Allow choice between EU and US server locations for temporary file storage (24 hours).
 
   *[Suggested by rob on Oct 26, 2024](https://viwoods.com/pages/community#/post/6956b074-7b52-4a11-8ae1-b3e3bb733b48)*
 
 - **Email App Support for Google Workspace**: Enable Google Workspace accounts in the email app for professional use.
-
+   - **3.1.4: Partially fulfilled through manual IMAP and POP3 configuration support.**
   *[Suggested by jetchoy on Oct 30, 2024](https://viwoods.com/pages/community#/post/8bcf2b2f-c280-4112-a731-5cdb52dc5752)*
 
 - **Support for Microsoft Business Accounts**: Allow integration of Microsoft business accounts for mail and calendar access.
-
+   - **3.1.4: Partially fulfilled through manual IMAP and POP3 configuration support.**
   *[Suggested by csperone on Nov 4, 2024](https://viwoods.com/pages/community#/post/8c814b79-0482-46da-a19c-2fce66c7df10)*
 
 - **Option to Disable or Reduce Sensitivity of Bottom Buttons**: Add a feature to turn off or reduce sensitivity of the Back, Home, and AI buttons when the stylus is in motion.
 
   *[Suggested by William on Nov 7, 2024](https://viwoods.com/pages/community#/post/f4414ddd-86b9-42fa-be59-db60bf24d6f5)*
+   *Requested by [u/inked_altitude](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/) on November 1, 2024*
 
 - **Easier File Management on Device**: Enable movement of PDFs between Learning and Paper apps, and improve local file management and syncing with my.viwoods.
 
