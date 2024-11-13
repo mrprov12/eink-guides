@@ -1,8 +1,8 @@
 title: einkGuides
 description: Accumulated eink device knowledge
-remote_theme: just-the-docs
+theme: just-the-docs
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  # - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-default-layout
 
 url: https://www.eink-guides.info
