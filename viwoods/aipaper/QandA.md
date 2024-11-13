@@ -1,6 +1,49 @@
 Below is a collection of  Q and A from various Viwoods sources (community, subreddit, etc).
 
-# Q:Can I set a default template for new notes in Paper?
+# Table of Contents
+- [Disabling Microphone and Data Transmission on Viwoods AiPaper](#disabling-microphone-and-data-transmission-on-viwoods-aipaper)
+-  [What are the replacement options for Viwoods stylus tips?](#q-what-are-the-replacement-options-for-viwoods-stylus-tips)
+- [Can I set a default template for new notes in Paper?](#can-i-set-a-default-template-for-new-notes-in-paper)
+- [How do I open the Pickings menu?](#how-do-i-open-the-pickings-menu)
+- [Does the Viwoods AiPaper support USB memory sticks for offline file management?](#does-the-viwoods-aipaper-support-usb-memory-sticks-for-offline-file-management)
+- [Can the Viwoods AiPaper perform handwriting recognition (OCR) offline?](#can-the-viwoods-aipaper-perform-handwriting-recognition-ocr-offline)
+- [Is there a way to access the Viwoods native note format, similar to Remarkable or Supernote?](#is-there-a-way-to-access-the-viwoods-native-note-format-similar-to-remarkable-or-supernote)
+- [Does the Viwoods AiPaper support side-loading of Android apps? Is the Android share sheet available?](#does-the-viwoods-aipaper-support-side-loading-of-android-apps-is-the-android-share-sheet-available)
+- [How do I get xyz app onto my AiPaper?](#how-do-i-get-xyz-app-onto-my-aipaper)
+- [Does the Viwoods AiPaper offer screen-sharing capabilities?](#does-the-viwoods-aipaper-offer-screen-sharing-capabilities)
+- [How can I copy and paste in a PDF?](#how-can-i-copy-and-paste-in-a-pdf)
+- [Can I use OneNote on the AiPaper?](#can-i-use-onenote-on-the-aipaper)
+- [How can I uninstall apps on the Viwoods AiPaper?](#how-can-i-uninstall-apps-on-the-viwoods-aipaper)
+
+
+
+# Q: Is it possible to disable the microphone and sending of information for privacy on the Viwoods AiPaper?
+## A: Disabling Microphone and Data Transmission on Viwoods AiPaper
+
+As of now, the Viwoods AiPaper does not provide a specific setting to disable the microphone or data transmission features. However, the device does not record or transmit data without user consent, and Viwoods adheres to privacy standards that prevent unauthorized data usage.
+
+To enhance privacy further, users can:
+- **Disable Wi-Fi**: Turning off Wi-Fi when not in use will prevent data transmission.
+- **Monitor Permissions**: Regularly check app permissions to control access to the microphone and other features.
+
+Viwoods has also stated they are actively gathering feedback on privacy and data security to improve future functionality.
+
+---
+
+# Q: What are the replacement options for Viwoods stylus tips?
+## A: Stylus Tip Replacement Options for Viwoods AiPaper
+
+Viwoods AiPaper users have a few options when it comes to replacing stylus tips. Currently, replacement stylus tips that are compatible with the Lamy EMR Wacom stylus will also work with the Viwoods stylus.
+
+Viwoods is expected to start offering official replacement stylus tips around the end of November.
+
+### Replacement Options
+- **Compatible Tips**: Lamy EMR Wacom-compatible tips
+- **Official Viwoods Tips**: Expected availability in late November
+
+---
+
+# Q: Can I set a default template for new notes in Paper?
 ## A: How to Use Quick Notes and Linked Folders in Paper
 
 While you can't set a template for the base note on the main tab in Paper (the rectangle with a `+`), you can create a "Quick Note" in the Paper app. Quick Notes allow you to use a specific template linked to a Folder tag, called a "Linked Folder." Here’s how it works:
