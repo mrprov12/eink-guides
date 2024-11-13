@@ -1,23 +1,24 @@
 title: einkGuides
 description: Accumulated eink device knowledge
-theme: just-the-docs
+remote_theme: pages-themes/slate@v0.2.0
+# theme: just-the-docs
 plugins:
-  # - jekyll-remote-theme # add this line to the plugins list if you already have one
-  - jekyll-default-layout
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+#   - jekyll-default-layout
 
-url: https://www.eink-guides.info
+# url: https://www.eink-guides.info
 
-aux_links: # remove if you don't want this link to appear on your pages
-  Kindle: https://www.eink-guides.com/kindle.html
-  Viwoods AiPaper: https://www.eink-guides.com/viwoods.html
+# aux_links: # remove if you don't want this link to appear on your pages
+#   Kindle: https://www.eink-guides.com/kindle.html
+#   Viwoods AiPaper: https://www.eink-guides.com/viwoods.html
 
-search_enabled: true
-nav_enabled: true
-heading_anchors: true
+# search_enabled: true
+# nav_enabled: true
+# heading_anchors: true
 
-last-edit-timestamp: true
+# last-edit-timestamp: true
 
-gh_edit_link: true
-gh_edit_link_test: "Contribute to eink-guides on GitHub."
+# gh_edit_link: true
+# gh_edit_link_test: "Contribute to eink-guides on GitHub."
 
-color_scheme: dark
+# color_scheme: dark
