@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1><a href="{{ '/' | relative_url }}">einkGuides</a></h1>
+    <nav>
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/jailbreaking' | relative_url }}">Jailbreaking</a></li>
+        <li><a href="{{ '/tutorials' | relative_url }}">Tutorials</a></li>
+        <li><a href="{{ '/resources' | relative_url }}">Resources</a></li>
+        <li><a href="https://github.com/yourusername/yourrepo" target="_blank">GitHub</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<div class="content">
+  {{ content }}
+</div>
+
+<footer>
+  <p>&copy; {{ "now" | date: "%Y" }} einkGuides. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
