@@ -128,8 +128,27 @@ Screen sharing is available on the Viwoods AiPaper. You can access it by swiping
 # Q: How can I copy and paste in a PDF?
 # A: [PDF Planner Copy & Paste (Video Walkthrough courtesy of u/Chnubimann)](https://www.reddit.com/r/viwoods/comments/1gp121m/pdf_planer_cp/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
-__
+---
 
 # Q: Can I use OneNote on the AiPaper?
 ## A: Yes! [OneNote ViWoods Workflow (video walkthrough courtesy of u/Chnubimann)] (https://www.reddit.com/r/viwoods/comments/1ghflio/onenote_viwoods_workflow/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+---
+
+# Q: How can I uninstall apps on the Viwoods AiPaper?
+## A: Uninstalling Apps from Viwoods AiPaper
+
+On the Viwoods AiPaper, there are limitations regarding app removal based on the app type:
+
+- **System Apps**: Some pre-installed apps, like the App Store, ViTransfer, Memo, Mailbox, and Chrome, are designated as "System Apps" and cannot be uninstalled.
+
+- **Apps from the Viwoods App Store**: For apps downloaded from the Viwoods App Store, you can uninstall them by:
+  1. Navigating to the **Apps** page.
+  2. Long-pressing the app icon you wish to delete.
+  3. Selecting **Delete** in the pop-up menu.
+
+- **Apps Installed via APKPure**: The process for uninstalling APKs installed through APKPure may vary. Users suggest attempting to remove them by following the same process as for App Store apps (long-pressing on the Apps page), though success may depend on the app's specific permissions and installation method.
+
+Users also report that trying to uninstall apps from the Home Screen does not work and recommend using the Apps page instead.
+
 ---
