@@ -11,8 +11,10 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
 
 ## Viwoods AiPaper
-### Feature Requests
+### Features
+- [Release Documentation by Software Version](./viwoods/aipaper/Release.md)
 - [Feature Requests by Software Version](./viwoods/aipaper/FeatureRequests.md)
+- [Q&A on Features and Capabilities of the AiPaper](./viwoods/aipaper/QandA.md)
 
 ### Tested Guides
 - #### General
