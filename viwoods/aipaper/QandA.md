@@ -125,6 +125,11 @@ Screen sharing is available on the Viwoods AiPaper. You can access it by swiping
 
 ---
 
+# Q: How can I copy and paste in a PDF?
+# A: [PDF Planner Copy & Paste (Video Walkthrough courtesy of u/Chnubimann)](https://www.reddit.com/r/viwoods/comments/1gp121m/pdf_planer_cp/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+__
+
 # Q: Can I use OneNote on the AiPaper?
-## A: Yes! [OneNote ViWoods Workflow (video walkthrough)] (https://www.reddit.com/r/viwoods/comments/1ghflio/onenote_viwoods_workflow/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+## A: Yes! [OneNote ViWoods Workflow (video walkthrough courtesy of u/Chnubimann)] (https://www.reddit.com/r/viwoods/comments/1ghflio/onenote_viwoods_workflow/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 ---
