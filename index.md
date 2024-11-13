@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 ## Viwoods AiPaper
 ### Features
-- [Release Documentation by Software Version](./viwoods/aipaper/Release.md)
+- [Release Documentation by Software Version](./viwoods/aipaper/Releases.md)
 - [Feature Requests by Software Version](./viwoods/aipaper/FeatureRequests.md)
 - [Q&A on Features and Capabilities of the AiPaper](./viwoods/aipaper/QandA.md)
 
