@@ -1,3 +1,12 @@
+## Table of Contents
+- [Jailbreaking your Kindle](#jailbreaking-your-kindle)
+  - [LanguageBreak](#languagebreak)
+  - [WatchThis](watchthis)
+- [Installing KOreader](#installing-koreader)
+
+---
+---
+
 # Jailbreaking your Kindle
 
 As of November 2024, there are two main methods to jailbreak your Kindle:
