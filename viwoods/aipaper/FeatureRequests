@@ -1,4 +1,6 @@
 # Version 3.1.2
+
+## AiPaper
 1) **Screen Rotation & Lock**: The ability to rotate and lock screen orientation would be fantastic. When writing in portrait mode, my hand often hits the bottom buttons, pulling me to the Home Screen. When turning the device to write in landscape, my hand occasionally triggers the menu. If I could lock the screen in normal portrait, landscape, or 180° in portrait (with the top-right menu moving with the orientation), it would prevent accidental button presses. Alternatively, a lock for the bottom buttons would allow uninterrupted writing—perhaps something you could add to the top-right or left-hand menu, or activate with a gesture.
 
 2) **ChatGPT Account Integration**: It would be great to sign into my ChatGPT account directly on the AiPaper system AI. While I can install the ChatGPT app via APKPure, I'd like to connect my (paid) account to the system AI and choose the model I'd like to use systemwide.
