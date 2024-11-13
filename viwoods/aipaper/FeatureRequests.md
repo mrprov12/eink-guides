@@ -61,6 +61,7 @@
 - **Configurable Swipe Zones for Undo and Refresh**: Implement swipe zones for quick actions, like undo and refresh, and allow users to customize gesture functions (e.g., assign to two- or three-finger tap).
 
   *[Suggested by jetchoy on Nov 1, 2024](https://viwoods.com/pages/community#/post/372ef3b9-ffee-4bcd-8893-c030c7f4db4f)*
+ *[Requested by u/digitalparks on Nov 7, 2024]([https://viwoods.com/pages/community#/post/372ef3b9-ffee-4bcd-8893-c030c7f4db4f](https://www.reddit.com/r/viwoods/comments/1glos0d/screen_refresh_method/))*
 
 ---
 
