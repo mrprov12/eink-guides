@@ -1,34 +1,215 @@
 # Version 3.1.2
+## Completed as of 3.1.2
 
-## AiPaper
-1) **Screen Rotation & Lock**: The ability to rotate and lock screen orientation would be fantastic. When writing in portrait mode, my hand often hits the bottom buttons, pulling me to the Home Screen. When turning the device to write in landscape, my hand occasionally triggers the menu. If I could lock the screen in normal portrait, landscape, or 180° in portrait (with the top-right menu moving with the orientation), it would prevent accidental button presses. Alternatively, a lock for the bottom buttons would allow uninterrupted writing—perhaps something you could add to the top-right or left-hand menu, or activate with a gesture.
+- **Completed in Version 3.1.2: Direct Link to Community from Device**: A direct link to the Viwoods Community has been added to the device under a "Help" section, providing users with quick access to community resources and support.  
+  *Originally requested by [Ben](https://viwoods.com/pages/community#/post/9bfe5700-ba11-4cc1-b7bf-9841641dad29) on Oct 17, 2024*
 
-2) **ChatGPT Account Integration**: It would be great to sign into my ChatGPT account directly on the AiPaper system AI. While I can install the ChatGPT app via APKPure, I'd like to connect my (paid) account to the system AI and choose the model I'd like to use systemwide.
+  
+- **Completed in Version 3.1.2 and Enhanced in 3.1.4: Sideloading APKs**:
+    - v3.1.2: Viwoods has introduced support for sideloading apps via the APKPure app, available in the app store. This allows users to download and install compatible APKs directly.
+    - v3.1.4: The upcoming version 3.1.4 is set to include Google Play Store support, which will further expand app availability for the device.  
+  *Originally suggested by [remi.flores](https://viwoods.com/pages/community#/post/e3d04190-3bb9-4b16-af57-455cef508ee2) on Oct 21, 2024*
 
-3) **Folder Structure in Learning**: Adding folders and subfolders in Learning, or a Library-like feature to categorize epubs, would help in organizing content. Currently, I categorize epubs in Calibre, but after transferring them to AiPaper, they end up in a single folder, making it hard to find specific items.
 
-4) **Adjustable Line Spacing and Custom Fonts in epubs in Learning**: Adjustable line spacing and support for custom fonts would improve readability in the Learning section.
+- **[Completed by Oct 16th, 2024](https://viwoods.com/pages/community#/post/d4f23c54-b147-4746-9a73-3bb38ff25239): Translation of Handwritten Mathematical Expressions to LaTeX**: Enable the AI to recognize and translate handwritten mathematical expressions into properly formatted LaTeX code. This feature would significantly benefit students and professionals in mathematics and scientific fields who frequently use LaTeX for academic and professional writing, making the AiPaper a valuable tool in the education and scientific sectors.  
+  *Originally suggested by [Mitchell Haas](https://viwoods.com/pages/community#/post/f59b2e68-2c4b-40d4-a6d8-6c8d70072826) on Sep 15, 2024*
 
-5) **Folders in Meetings & Pickings**: Support for folders and subfolders in both Meetings and Pickings would help organize content.
 
-6) **Subfolders in Paper**: Adding subfolders in Paper would be similarly useful for note organization.
+- **[Completed in Version 3.0.5] Kindle App Annotation Issue**: Fixed an issue in the Kindle app where selecting the 'annotate' option would briefly display the annotation toolbar before disappearing, preventing users from annotating Kindle screenshots. This update ensures that screenshots can be annotated and saved to Pickings as intended.  
+  *Originally requested [33rocks](https://viwoods.com/pages/community#/post/b6e18493-e615-4df8-8064-246c8b4bbd68) on Oct 11, 2024*
 
-7) **Daily Linkage for Created Content**: Could the Daily section track all created content (e.g., pages, annotated PDFs, epubs in Learning) by date? This would make it easier to see everything created on a specific day, with tabs for each type (Tasks, Notes, Paper, Meetings, Learning, Pickings) or an all-encompassing “Created” tab. This might eliminate the need for Planner templates as all activity would be visible in the Daily view.
 
-8) **Quick Access to Tasks & Notes**: **(Menu)** – Adding Tasks and Notes buttons to the top-right dropdown menu where clicking the button opened up a modal on screen that allowed you to check off a task or write a note would allow quick access to jot something down without leaving the current screen. Renaming ‘Notes’ to ‘Quick Notes’ might also clarify its function, as ‘Paper’ serves as the primary note-taking space. **(Lock Screen)** – Adding Tasks and Notes buttons on the lock screen (with gestures like “swipe up from the bottom left” for Tasks and “swipe up from the bottom right” for Notes) would offer quick access.
 
-9) **Handwriting-to-Text in Tasks**: The Daily Task list would benefit from automatic handwriting-to-text conversion and tappable checkboxes, enabling check-offs, sorting, and prioritization of tasks with filtering options.
 
-10) **Additional Fonts & Custom Screensavers**: Support for adding system fonts and custom screensavers (.png) would offer more personalization options.
 
-11) **Greyscale Drawing Options & Blender Brush in Paper**: Greyscale colors (similar to the Supernote) and a blending brush for pencil would make the device more suitable for sketching. You could enhance the Paper app with these tools or consider a separate drawing app, as this has the potential to be a great sketchbook.
+## Bugs as of 3.1.2
+- **[BUG] Sorting of Documents in Learning**: Improve the sorting functionality in the Learning section so that PDFs and ePubs can be accurately sorted in alphabetical order when "Ascending" is selected. This would ensure a more organized and intuitive document management experience.  
+  *Originally reported by [rev.mark](https://viwoods.com/pages/community#/post/88fdc51c-1787-47a8-a0a7-5ca02b1b777d) on Oct 30, 2024*
+  
+## Feature Requests as of v3.1.2
 
-12) **Stylus Button Customization**: Customizing the action of the stylus’ physical button would allow greater workflow personalization. For instance, I noticed a user request to set it as a lasso tool.
+### Table of Contents
+1. [General UI/UX Enhancements](#general-uiux-enhancements)
+2. [PDF and Document Management](#pdf-and-document-management)
+3. [AI and Text Conversion Features](#ai-and-text-conversion-features)
+4. [Daily and Calendar Functionality](#daily-and-calendar-functionality)
+5. [File Organization and Structure](#file-organization-and-structure)
+6. [Handwriting and Artistic Tools](#handwriting-and-artistic-tools)
+7. [System and Connectivity Features](#system-and-connectivity-features)
+8. [Backup and Sync Options](#backup-and-sync-options)
 
-13) **Unlimited Scroll in Paper & Meetings**: Unlimited scrolling in Paper and Meetings documents would prevent interruptions when taking notes and would enable the AI Assistant to view more than the current page.
+---
 
-14) **Naming Pages/Sections in Long Documents**: The option to name pages or sections in long documents would help navigation, allowing a type of Table of Contents and aiding the AI Assistant’s ability to analyze a full document.
+### General UI/UX Enhancements
 
-15) **Customizable Home Screen Boxes**: I don’t use Pickings, so the ability to replace it on the Home Screen with a specific Paper folder or another custom option would be helpful.
+- **Wake Device by Removing Stylus**: Add an option to wake the device by detaching the magnetic stylus, in addition to the current functionality that turns the device on when opening the case.
+  
+  *[Suggested by FFR on Oct 16, 2024](https://viwoods.com/pages/community#/post/a97d8f98-db93-4624-ae05-1ff960e5dfad)*
 
-16) **Customizable Home Screen Apps**: Lastly, allowing favorite apps on the Home Screen (instead of the most recently opened) would provide faster access to frequently used apps.
+- **Homepage UI/UX Customization**: Allow customization of the 8 main apps on the homepage by selecting favorite or frequently used apps and customizing layout order (e.g., placing Daily in the top left, Learning in the center).
+
+  *[Suggested by gradstudent_withADHD on Nov 12, 2024](https://viwoods.com/pages/community#/post/92479b54-5480-44e2-a447-cd6aab1797e6)*
+
+- **Improved Formatting of ChatGPT Output**: Enhance ChatGPT output rendering to display headers, bold text, and LaTeX formulas without markdown symbols.
+
+  *[Suggested by dr_scott8 on Oct 23, 2024](https://viwoods.com/pages/community#/post/fad67229-4220-45d6-a82b-177f7b22fe3a)*
+
+- **Customizable Home Screen Apps and Boxes**: Allow favorite apps to be pinned on the home screen and enable replacing default boxes (e.g., Pickings) with custom folders or frequently used apps.
+
+  *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
+
+- **Configurable Swipe Zones for Undo and Refresh**: Implement swipe zones for quick actions, like undo and refresh, and allow users to customize gesture functions (e.g., assign to two- or three-finger tap).
+
+  *[Suggested by jetchoy on Nov 1, 2024](https://viwoods.com/pages/community#/post/372ef3b9-ffee-4bcd-8893-c030c7f4db4f)*
+
+---
+
+### PDF and Document Management
+
+- **PDF Reader Enhancements**:
+  1. Add an in-document keyword search.
+  2. Universal zoom for all PDF pages.
+  3. Clickable links within PDFs for navigation.
+  4. Continuous scrolling or quick page-jumping options.
+
+  *[Suggested by gradstudent_withADHD on Nov 12, 2024](https://viwoods.com/pages/community#/post/a33c27bb-a3ca-4ffc-afaf-6c705b454e16)*
+
+- **Remember Last Zoom Setting for PDFs**: Enable documents to remember the last zoom level set for easy reopening at a preferred zoom level.
+
+  *[Suggested by KiMankins on Nov 13, 2024](https://viwoods.com/pages/community#/post/9829d6bf-1328-46a3-a206-d3a137fbd957)*
+
+- **Pinch and Zoom for PDF in Paper App**: Add pinch and zoom functionality to the PDF annotation feature in the Paper app.
+
+  *[Suggested by William on Nov 7, 2024](https://viwoods.com/pages/community#/post/757613d7-d654-4191-b333-ae611a8a4d2d)*
+
+- **Copy and Paste Between Different Papers**: Enable copying and pasting between separate papers in the "Papers" area for flexible note-taking.
+
+  *[Suggested by Tony on Oct 31, 2024](https://viwoods.com/pages/community#/post/c6f1a2f8-8940-42da-ae02-8ea563b858ca)*
+
+---
+
+### AI and Text Conversion Features
+
+- **Enhanced Notes to Text AI Features**:
+  1. Seamless multi-page notes-to-text conversion.
+  2. Catalog/index for pages with handwritten notes or highlights.
+  3. AI to distinguish handwritten notes from printed text.
+
+  *[Suggested by gradstudent_withADHD on Nov 12, 2024](https://viwoods.com/pages/community#/post/a33c27bb-a3ca-4ffc-afaf-6c705b454e16)*
+
+- **Replace Handwriting with AI-Converted Text**: Allow users to replace handwritten content with AI-converted text within documents to improve searchability and readability.
+
+  *[Suggested by jetchoy on Oct 30, 2024](https://viwoods.com/pages/community#/post/b4aa3598-1193-4eac-8986-1519c6faf6d7)*
+
+- **Handwriting-to-Text in Tasks**: Enable handwriting-to-text conversion in the Daily Task list with tappable checkboxes for easier task sorting.
+
+  *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
+
+---
+
+### Daily and Calendar Functionality
+
+- **Tags and Search in Daily Notes**: Add tagging for notes within Daily and search functionality for notes and tasks by tags (excluding handwritten text for privacy).
+
+  *[Suggested by van.karo on Oct 25, 2024](https://viwoods.com/pages/community#/post/39bab34f-2ce8-423b-b658-b296eb1dd029)*
+
+- **Scrolling and Enhanced Checkbox in Daily Feature**: Modify the Daily feature for vertical scrolling through task lists, with options for shrinking the calendar and checkboxes to mark tasks as completed.
+
+  *[Suggested by Tony on Oct 29, 2024](https://viwoods.com/pages/community#/post/0dc75782-7e11-42c8-b495-6ca32e9aecdb)*
+
+- **Daily Task Creation from Meeting and Paper Apps**: Allow tasks created in Meeting and Paper apps to appear in the Daily task list for seamless integration.
+
+  *[Requested by Dr. Dom on Oct 14, 2024](https://viwoods.com/pages/community#/post/f2d89bf3-8659-4e3b-ab1f-8dd8993e3a4f)*
+
+- **Undo Button in Daily App**: Add an undo button to reverse accidental actions, like crossing off items, in the Daily app.
+
+  *[Requested by Dr. Dom](https://viwoods.com/pages/community#/post/e35bee2e-cdf9-49c9-b9ec-f39a19e5e176)*
+
+---
+
+### File Organization and Structure
+
+- **Unified File Organization for Papers and Learning**: Allow files to move easily between "Paper" and "Learning" sections after import.
+
+  *[Suggested by gradstudent_withADHD on Nov 12, 2024](https://viwoods.com/pages/community#/post/a33c27bb-a3ca-4ffc-afaf-6c705b454e16)*
+
+- **Support for PARA Folder Structure**: Add a customizable folder structure to organize files based on the PARA methodology (Projects, Areas, Resources, Archives).
+
+  *[Suggested by Bydandie on Oct 18, 2024](https://viwoods.com/pages/community#/post/519808a2-2071-4b17-b415-6d45c2721519)*
+
+- **Folder Structure in Learning**: Add folders and subfolders in the Learning section for content organization.
+
+  *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
+
+- **Folders in Meetings & Pickings**: Add folder support in Meetings and Pickings sections for better document organization.
+
+  *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
+
+---
+
+### Handwriting and Artistic Tools
+
+- **Improved Highlighting Options**: Add straight-line and adjustable-thickness options to the highlighter for tidy annotations.
+
+  *[Suggested by Jeffron on Oct 19, 2024](https://viwoods.com/pages/community#/post/f2d33f6e-ae94-4735-82e7-afc84f9c1691)*
+
+- **Greyscale Drawing Options & Blender Brush**: Add greyscale options and a blending brush for sketching or create a separate drawing app.
+
+  *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
+
+- **Zoom-In and Scroll for Handwriting**: Add zoom-in and scrolling for handwriting in notebooks for improved legibility and seamless writing.
+
+  *[Suggested by Joshua K on Oct 28, 2024](https://viwoods.com/pages/community#/post/62542861-46e0-4584-8141-4b26daba6ffd)*
+
+- **Additional Artistic Tools**: Add tools like greyscale pens and various brush types for digital artistry.
+
+  *[Suggested by igor3661 on Nov 11, 2024](https://viwoods.com/pages/community#/post/c8dee0c1-eb83-4a0a-a3a1-d68c1eb24bf2)*
+
+---
+
+### System and Connectivity Features
+
+- **Server Location Selection**: Allow choice between EU and US server locations for temporary file storage (24 hours).
+
+  *[Suggested by rob on Oct 26, 2024](https://viwoods.com/pages/community#/post/6956b074-7b52-4a11-8ae1-b3e3bb733b48)*
+
+- **Email App Support for Google Workspace**: Enable Google Workspace accounts in the email app for professional use.
+
+  *[Suggested by jetchoy on Oct 30, 2024](https://viwoods.com/pages/community#/post/8bcf2b2f-c280-4112-a731-5cdb52dc5752)*
+
+- **Support for Microsoft Business Accounts**: Allow integration of Microsoft business accounts for mail and calendar access.
+
+  *[Suggested by csperone on Nov 4, 2024](https://viwoods.com/pages/community#/post/8c814b79-0482-46da-a19c-2fce66c7df10)*
+
+- **Option to Disable or Reduce Sensitivity of Bottom Buttons**: Add a feature to turn off or reduce sensitivity of the Back, Home, and AI buttons when the stylus is in motion.
+
+  *[Suggested by William on Nov 7, 2024](https://viwoods.com/pages/community#/post/f4414ddd-86b9-42fa-be59-db60bf24d6f5)*
+
+- **Easier File Management on Device**: Enable movement of PDFs between Learning and Paper apps, and improve local file management and syncing with my.viwoods.
+
+  *[Suggested by William on Nov 7, 2024](https://viwoods.com/pages/community#/post/5bcf499c-2001-48e7-8a0a-48e54c5b383b)*
+
+---
+
+### Backup and Sync Options
+
+- **Backup/Export for eBooks and Annotations**: Add options to back up or export eBooks and annotations as EPUB or PDF, with cloud backup like Dropbox.
+
+  *In Development:* Viwoods has indicated a backup feature is in development, with future support for multi-page annotation export.
+
+  *[Suggested by Joshua K on Oct 28, 2024](https://viwoods.com/pages/community#/post/7646de75-1fb4-4959-bc0c-4ff00e330a65)*
+
+- **Always-On Backup and Sync Functionality**: Provide "always on" backup for regular automatic file sync to prevent data loss.
+
+  *[Suggested by Ben and TJ](https://viwoods.com/pages/community#/post/a84a3c2f-1775-462c-bd57-d672ec2d2116)*
+
+- **Customizable Cloud Backup Options**: Allow users to back up files to preferred cloud storage like Nextcloud, OneDrive, etc.
+
+  *Supported by feedback from multiple users on Viwoods community*  
+
+- **Enhanced ViTransfer Backup Capabilities**: Improve ViTransfer for longer file accessibility and add a scheduled sync option.
+
+  *[Suggested by jrgmarsh](https://viwoods.com/pages/community#/post/a84a3c2f-1775-462c-bd57-d672ec2d2116)*
+
+---
+
