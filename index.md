@@ -1,9 +1,14 @@
 # Welcome to E-Ink Device Guides
 Here you'll find comprehensive guides on using various e-ink devices.
 
+______________________________________________________________________________________
+______________________________________________________________________________________
+
 ## Kindle
 ### KOreader
 [Jailbreaking Your Kindle and installing KOreader](./kindle/koreader-jailbreak-setup.md)
+
+______________________________________________________________________________________
 
 ## Viwoods AiPaper
 ### Feature Requests
