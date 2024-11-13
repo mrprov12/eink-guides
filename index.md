@@ -4,6 +4,11 @@ Here you'll find comprehensive guides on using various e-ink devices.
 ---
 ---
 
+[Free Templates for eInk Devices](https://github.com/mrprov12/eink-guides/tree/main/templates)
+
+---
+---
+
 ## Viwoods AiPaper
 ### Features
 - [Release Documentation by Software Version](./viwoods/aipaper/Releases.md)
