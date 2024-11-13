@@ -1,7 +1,12 @@
 theme: just-the-docs
-
+plugins:
+  - jekyll-default-layout
+  
 title: einkGuides
 description: Accumulated eink device knowledge
 
-header_pages:
-  - index.md
+url: https://www.eink-guides.info
+
+aux_links: # remove if you don't want this link to appear on your pages
+  Kindle: https://www.eink-guides.com/kindle.html
+  Viwoods AiPaper: https://www.eink-guides.com/viwoods.html
