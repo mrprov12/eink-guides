@@ -1,5 +1,26 @@
-# Version 3.1.4
-## Completed as of 3.1.4
+### Table of Contents
+- [Complete Feature Requests by Release Version](#completed-feature-requests-by-version)
+  - [v3.1.4](#version-3.1.4)
+    - [Completed as of 3.1.4](#completed-as-of-3.1.4)
+  - [v3.1.2](#version-3.1.2)
+    - [Completed as of 3.1.2](#completed-as-of-3.1.2)
+- [Feature Requests](#feature-requests)
+    1. [General UI/UX Enhancements](#general-uiux-enhancements)
+    2. [PDF and Document Management](#pdf-and-document-management)
+    3. [AI and Text Conversion Features](#ai-and-text-conversion-features)
+    4. [Daily and Calendar Functionality](#daily-and-calendar-functionality)
+    5. [File Organization and Structure](#file-organization-and-structure)
+    6. [Handwriting and Artistic Tools](#handwriting-and-artistic-tools)
+    7. [System and Connectivity Features](#system-and-connectivity-features)
+    8. [Backup and Sync Options](#backup-and-sync-options)
+
+---
+---
+# Complete Feature Requests by Release Version
+
+## Version 3.1.4
+
+### Completed as of 3.1.4
 - **Completed in Version 3.1.4: Sideloading APKs**:
     - v3.1.4: The upcoming version 3.1.4 is set to include Google Play Store support, which will further expand app availability for the device.  
   *Originally suggested by [remi.flores](https://viwoods.com/pages/community#/post/e3d04190-3bb9-4b16-af57-455cef508ee2) on Oct 21, 2024*
@@ -24,9 +45,10 @@
 
   *[Suggested by gradstudent_withADHD on Nov 12, 2024](https://viwoods.com/pages/community#/post/a33c27bb-a3ca-4ffc-afaf-6c705b454e16)*
 
+---
 
 # Version 3.1.2
-## Completed as of 3.1.2
+### Completed as of 3.1.2
   
 - **Completed in Version 3.1.2: Sideloading APKs**:
     - v3.1.2: Viwoods has introduced support for sideloading apps via the APKPure app, available in the app store. This allows users to download and install compatible APKs directly.
@@ -39,14 +61,8 @@
 - **[Completed by Oct 16th, 2024](https://viwoods.com/pages/community#/post/d4f23c54-b147-4746-9a73-3bb38ff25239): Translation of Handwritten Mathematical Expressions to LaTeX**: Enable the AI to recognize and translate handwritten mathematical expressions into properly formatted LaTeX code. This feature would significantly benefit students and professionals in mathematics and scientific fields who frequently use LaTeX for academic and professional writing, making the AiPaper a valuable tool in the education and scientific sectors.  
   *Originally suggested by [Mitchell Haas](https://viwoods.com/pages/community#/post/f59b2e68-2c4b-40d4-a6d8-6c8d70072826) on Sep 15, 2024*
 
-
 - **Completed in Version 3.0.5: Kindle App Annotation Issue**: Fixed an issue in the Kindle app where selecting the 'annotate' option would briefly display the annotation toolbar before disappearing, preventing users from annotating Kindle screenshots. This update ensures that screenshots can be annotated and saved to Pickings as intended.  
   *Originally requested [33rocks](https://viwoods.com/pages/community#/post/b6e18493-e615-4df8-8064-246c8b4bbd68) on Oct 11, 2024*
-
-
-## Bugs as of 3.1.2
-- **[BUG] Sorting of Documents in Learning**: Improve the sorting functionality in the Learning section so that PDFs and ePubs can be accurately sorted in alphabetical order when "Ascending" is selected. This would ensure a more organized and intuitive document management experience.  
-  *Originally reported by [rev.mark](https://viwoods.com/pages/community#/post/88fdc51c-1787-47a8-a0a7-5ca02b1b777d) on Oct 30, 2024*
 
 ---
 ---
@@ -100,6 +116,10 @@
 ---
 
 ### PDF and Document Management
+
+- **Sorting of Documents in Learning**: Improve the sorting functionality in the Learning section so that PDFs and ePubs can be accurately sorted in alphabetical order when "Ascending" is selected. This would ensure a more organized and intuitive document management experience.  
+  *Originally reported by [rev.mark](https://viwoods.com/pages/community#/post/88fdc51c-1787-47a8-a0a7-5ca02b1b777d) on Oct 30, 2024*
+  
 - **Functions Essential for Reading E-Books**:
   1. Allow underlining by selecting text, similar to other e-readers. Current pen-based underlining creates separate annotations.
   2. Add a content search feature within e-books for easier navigation.
