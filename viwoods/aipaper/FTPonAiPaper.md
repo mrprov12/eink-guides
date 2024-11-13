@@ -6,7 +6,7 @@ This guide will help you set up an FTP server on your AiPaper and connect to it 
 
 ---
 
-## Step 1: Set Up FTP Server on AiPaper
+### Step 1: Set Up FTP Server on AiPaper
 
 1. **Install an FTP Server App:**
    - Download an FTP server app like **Primitive FTPd** or **FTP Server** from the AiPaper App Store or APKPure.
@@ -19,9 +19,9 @@ This guide will help you set up an FTP server on your AiPaper and connect to it 
 
 ---
 
-## Step 2: Connect from Your Computer
+### Step 2: Connect from Your Computer
 
-### On Windows
+#### On Windows
 
 1. **Open File Explorer:**
    - In the address bar, type `ftp://[IP address]:[port]` (e.g., `ftp://192.168.1.5:2121`) using the details from your AiPaper FTP server app.
@@ -30,7 +30,7 @@ This guide will help you set up an FTP server on your AiPaper and connect to it 
    - When prompted, enter the username and password you set on the FTP server app.
    - You should now be able to see your AiPaper’s file system in File Explorer.
 
-### On Mac
+#### On Mac
 
 1. **Open Finder:**
    - In the Finder menu, click **Go** > **Connect to Server…**.
@@ -50,14 +50,14 @@ This guide will help you set up an FTP server on your AiPaper and connect to it 
 
 ---
 
-## Step 3: Transfer Files
+### Step 3: Transfer Files
 
 - Navigate to the **Download** folder (or any folder) on your AiPaper to upload or download files.
 - Drag and drop files between your computer and AiPaper as needed.
 
 ---
 
-## Step 4: Disconnect
+### Step 4: Disconnect
 
 - Once you’re done, stop the FTP server on your AiPaper to ensure security and save battery life.
 
