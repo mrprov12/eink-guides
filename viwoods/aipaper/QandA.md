@@ -124,3 +124,7 @@ As of v3.1.4 (currently in beta as of Nov 13th, 2024), AiPaper will have the abi
 Screen sharing is available on the Viwoods AiPaper. You can access it by swiping down the quick menu from the top right and selecting “WCAST.” This option opens an HTTP server on your local network, allowing you to view the device screen from your PC through the provided network address.
 
 ---
+
+# Q: Can I use OneNote on the AiPaper?
+## A: Yes! [OneNote ViWoods Workflow (video walkthrough)] (https://www.reddit.com/r/viwoods/comments/1ghflio/onenote_viwoods_workflow/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+---
