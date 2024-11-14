@@ -66,16 +66,27 @@
 # Feature Requests
 
 ### Table of Contents
-1. [General UI/UX Enhancements](#general-uiux-enhancements)
-2. [PDF and Document Management](#pdf-and-document-management)
-3. [AI and Text Conversion Features](#ai-and-text-conversion-features)
-4. [Daily and Calendar Functionality](#daily-and-calendar-functionality)
-5. [File Organization and Structure](#file-organization-and-structure)
-6. [Handwriting and Artistic Tools](#handwriting-and-artistic-tools)
-7. [System and Connectivity Features](#system-and-connectivity-features)
-8. [Backup and Sync Options](#backup-and-sync-options)
+1. [Website](#website)
+2. [General UI/UX Enhancements](#general-uiux-enhancements)
+3. [PDF and Document Management](#pdf-and-document-management)
+4. [AI and Text Conversion Features](#ai-and-text-conversion-features)
+5. [Daily and Calendar Functionality](#daily-and-calendar-functionality)
+6. [File Organization and Structure](#file-organization-and-structure)
+7. [Handwriting and Artistic Tools](#handwriting-and-artistic-tools)
+8. [System and Connectivity Features](#system-and-connectivity-features)
+9. [Backup and Sync Options](#backup-and-sync-options)
 
 ---
+
+### Website
+- **Community Forum Updates**: On the community page, could you tag posts with "Resolved Vxx.xx.xx" or something similar to indicate when a feature has been added? Alternatively, moving resolved requests to a different section would help us quickly find open requests and know if a feature we’re interested in has already been implemented.
+    - *Requested by [u/inked_altitude](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/) on November 1, 2024*
+
+- **Sign-in Modal UI Bug Fix**: The "EMAIL" and "PASSWORD" placeholders in the sign-in fields currently cover typed text. If these are placeholders, they should disappear when typing starts, or if they’re labels, moving them beside the textboxes would improve readability.
+    - *Requested by [u/inked_altitude](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/) on November 1, 2024*
+
+---
+
 
 ### General UI/UX Enhancements
 - **Back Button Navigation in Annotations**: Adjust the back button functionality when viewing an annotation in the Reading Notes annotation menu for an epub to return the user to the Annotations menu for that specific document, rather than the main 'Reading Notes' menu. This change would allow for smoother navigation and uninterrupted workflow when reviewing annotations within a document.
@@ -83,6 +94,7 @@
   
 - **Screen Rotation & Lock**: Enable screen rotation and lock options to prevent accidental presses when writing in different orientations. Locking options should include portrait, landscape, and 180° portrait modes, along with the ability to lock bottom buttons.
     - *Requested by [u/inked_altitude](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/) on November 1, 2024*
+    - "The ability to rotate and lock screen orientation would be fantastic. When writing in portrait mode, my hand often hits the bottom buttons, pulling me to the Home Screen. When turning the device to write in landscape, my hand occasionally triggers the menu. If I could lock the screen in normal portrait, landscape, or 180° in portrait (with the top-right menu moving with the orientation), it would prevent accidental button presses. Alternatively, a lock for the bottom buttons would allow uninterrupted writing—perhaps something you could add to the top-right or left-hand menu, or activate with a gesture."
 
 - **Additional Fonts & Custom Screensavers**: Add support for additional fonts and the option to set custom screensavers (.png files) for personalization.
     - *Requested by [u/inked_altitude](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/) on November 1, 2024*
@@ -97,16 +109,25 @@
 - **Improved Formatting of ChatGPT Output**: Enhance ChatGPT output rendering to display headers, bold text, and LaTeX formulas without markdown symbols.
     - *[Suggested by dr_scott8 on Oct 23, 2024](https://viwoods.com/pages/community#/post/fad67229-4220-45d6-a82b-177f7b22fe3a)*
 
-- **Customizable Home Screen Apps and Boxes**: Allow favorite apps to be pinned on the home screen and enable replacing default boxes (e.g., Pickings) with custom folders or frequently used apps.
+- **Customizable Home Screen Boxes**: Enable replacing default boxes (e.g., Pickings) with custom folders or frequently used apps.
+    - *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
+ 
+- **Customizable Home Screen Apps**: Lastly, allowing favorite apps on the Home Screen (instead of the most recently opened) would provide faster access to frequently used apps.
     - *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
 
 - **Configurable Swipe Zones for Undo and Refresh**: Implement swipe zones for quick actions, like undo and refresh, and allow users to customize gesture functions (e.g., assign to two- or three-finger tap).
     - *[Suggested by jetchoy on Nov 1, 2024](https://viwoods.com/pages/community#/post/372ef3b9-ffee-4bcd-8893-c030c7f4db4f)*
     - *[Requested by u/digitalparks on Nov 7, 2024]([https://viwoods.com/pages/community#/post/372ef3b9-ffee-4bcd-8893-c030c7f4db4f](https://www.reddit.com/r/viwoods/comments/1glos0d/screen_refresh_method/))*
 
+- **Stylus Button Customization**: Customizing the action of the stylus’ physical button would allow greater workflow personalization. For instance, I noticed a user request to set it as a lasso tool.
+    - *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
+  
 ---
 
 ### PDF and Document Management
+
+- Unlimited Scroll in Paper & Meetings: Unlimited scrolling in Paper and Meetings documents would prevent interruptions when taking notes and would enable the AI Assistant to view more than the current page.
+     - *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
 
 - **Sorting of Documents in Learning**: Improve the sorting functionality in the Learning section so that PDFs and ePubs can be accurately sorted in alphabetical order when "Ascending" is selected. This would ensure a more organized and intuitive document management experience.
     - *Originally reported by [rev.mark](https://viwoods.com/pages/community#/post/88fdc51c-1787-47a8-a0a7-5ca02b1b777d) on Oct 30, 2024*
@@ -137,6 +158,12 @@
 
 - **Copy and Paste Between Different Papers**: Enable copying and pasting between separate papers in the "Papers" area for flexible note-taking.
     - *[Suggested by Tony on Oct 31, 2024](https://viwoods.com/pages/community#/post/c6f1a2f8-8940-42da-ae02-8ea563b858ca)*
+
+- **Quick Access to Tasks & Notes**: (Menu) – Adding Tasks and Notes buttons to the top-right dropdown menu where clicking the button opened up a modal on screen that allowed you to check off a task or write a note would allow quick access to jot something down without leaving the current screen. Renaming ‘Notes’ to ‘Quick Notes’ might also clarify its function, as ‘Paper’ serves as the primary note-taking space. (Lock Screen) – Adding Tasks and Notes buttons on the lock screen (with gestures like “swipe up from the bottom left” for Tasks and “swipe up from the bottom right” for Notes) would offer quick access.
+    - *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
+ 
+- **Adjustable Line Spacing and Custom Fonts in epubs in Learning**: Adjustable line spacing and support for custom fonts would improve readability in the Learning section.
+     - *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
 
 ---
 
@@ -172,6 +199,10 @@
 
 - **Undo Button in Daily App**: Add an undo button to reverse accidental actions, like crossing off items, in the Daily app.
     - *[Requested by Dr. Dom](https://viwoods.com/pages/community#/post/e35bee2e-cdf9-49c9-b9ec-f39a19e5e176)*
+ 
+- **Daily Linkage for Created Content**: Could the Daily section track all created content (e.g., pages, annotated PDFs, epubs in Learning) by date? This would make it easier to see everything created on a specific day, with tabs for each type (Tasks, Notes, Paper, Meetings, Learning, Pickings) or an all-encompassing “Created” tab. This might eliminate the need for Planner templates as all activity would be visible in the Daily view.
+    - *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
+ 
 
 ---
 
@@ -183,12 +214,21 @@
 - **Support for PARA Folder Structure**: Add a customizable folder structure to organize files based on the PARA methodology (Projects, Areas, Resources, Archives).
     - *[Suggested by Bydandie on Oct 18, 2024](https://viwoods.com/pages/community#/post/519808a2-2071-4b17-b415-6d45c2721519)*
 
+- **Subfolders in Paper**: Adding subfolders in Paper would be similarly useful for note organization.
+    - *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
+  
 - **Folder Structure in Learning**: Add folders and subfolders in the Learning section for content organization.
     - *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
 
 - **Folders in Meetings & Pickings**: Add folder support in Meetings and Pickings sections for better document organization.
     - *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
 
+- **Folders for Custom Templates and PDF Templates in Paper**: Add the ability to organize custom templates into folders within the 'Customize' section to improve organization for users with extensive template libraries.
+    - Additionally, enable PDFs in Paper to be used as templates that can be duplicated as blank versions. This would enhance functionality for linked planners and similar use cases, allowing efficient reuse of customized PDF layouts without manually recreating them.
+    - *Requested by [inked_altitude](https://viwoods.com/pages/community#/post/dba2fa26-3e4d-4d2a-965c-372da9c768ab) on November 13, 2024*
+
+- **Naming Pages/Sections in Long Documents**: The option to name pages or sections in long documents would help navigation, allowing a type of Table of Contents and aiding the AI Assistant’s ability to analyze a full document.
+    - *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
 ---
 
 ### Handwriting and Artistic Tools
