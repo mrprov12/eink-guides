@@ -3,14 +3,15 @@
   - [Version 3.1.4](#version-314)
   - [Version 3.1.2](#version-312)
 - [Feature Requests](#feature-requests)
-    1. [General UI/UX Enhancements](#general-uiux-enhancements)
-    2. [PDF and Document Management](#pdf-and-document-management)
-    3. [AI and Text Conversion Features](#ai-and-text-conversion-features)
-    4. [Daily and Calendar Functionality](#daily-and-calendar-functionality)
-    5. [File Organization and Structure](#file-organization-and-structure)
-    6. [Handwriting and Artistic Tools](#handwriting-and-artistic-tools)
-    7. [System and Connectivity Features](#system-and-connectivity-features)
-    8. [Backup and Sync Options](#backup-and-sync-options)
+    1. [Website](#website)
+    2. [General UI/UX Enhancements](#general-uiux-enhancements)
+    3. [PDF and Document Management](#pdf-and-document-management)
+    4. [AI and Text Conversion Features](#ai-and-text-conversion-features)
+    5. [Daily and Calendar Functionality](#daily-and-calendar-functionality)
+    6. [File Organization and Structure](#file-organization-and-structure)
+    7. [Handwriting and Artistic Tools](#handwriting-and-artistic-tools)
+    8. [System and Connectivity Features](#system-and-connectivity-features)
+    9. [Backup and Sync Options](#backup-and-sync-options)
 
 ---
 ---
@@ -125,6 +126,9 @@
 ---
 
 ### PDF and Document Management
+
+- - **Ability to Rotate PDFs in Paper**: Add functionality to rotate PDFs, both on a per-page basis and for the entire document globally. This feature would support users who have PDF documents intended for landscape orientation, allowing them to adjust the orientation as needed after importing with ViTransfer.
+    - *Requested by [inked_altitude](https://viwoods.com/pages/community#/post/64153a41-9499-4c9a-a2f8-283d7b84c505) on November 13, 2024*
 
 - Unlimited Scroll in Paper & Meetings: Unlimited scrolling in Paper and Meetings documents would prevent interruptions when taking notes and would enable the AI Assistant to view more than the current page.
      - *[Requested by inked_altitude on Nov 1, 2024](https://www.reddit.com/r/viwoods/comments/1gnhhon/feature_suggestions_after_first_week_with_aipaper/)*
