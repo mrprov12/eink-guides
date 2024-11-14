@@ -1,7 +1,7 @@
 # Available Release Documentation
 ## Table of Contents
-- [3.1.4 - (Beta Nov 11th, 2024)](3.1.4)
-- [3.1.2 - (Live Nov. 1st, 2024)](3.1.2)
+- [3.1.4 - (Beta Nov 11th, 2024)](#3.1.4)
+- [3.1.2 - (Live Nov. 1st, 2024)](#3.1.2)
 
 
 
