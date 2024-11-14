@@ -1,9 +1,9 @@
 ### Table of Contents
 - [Complete Feature Requests by Release Version](#completed-feature-requests-by-version)
-  - [v3.1.4](#version-3.1.4)
-    - [Completed as of 3.1.4](#completed-as-of-3.1.4)
-  - [v3.1.2](#version-3.1.2)
-    - [Completed as of 3.1.2](#completed-as-of-3.1.2)
+  - [v3.1.4](#version-314)
+    - [Completed as of 3.1.4](#completed-as-of-314)
+  - [v3.1.2](#version-312)
+    - [Completed as of 3.1.2](#completed-as-of-312)
 - [Feature Requests](#feature-requests)
     1. [General UI/UX Enhancements](#general-uiux-enhancements)
     2. [PDF and Document Management](#pdf-and-document-management)
