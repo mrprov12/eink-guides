@@ -1,9 +1,7 @@
 ### Table of Contents
 - [Complete Feature Requests by Release Version](#completed-feature-requests-by-version)
-  - [v3.1.4](#version-314)
-    - [Completed as of 3.1.4](#completed-as-of-314)
-  - [v3.1.2](#version-312)
-    - [Completed as of 3.1.2](#completed-as-of-312)
+  - [v3.1.4](#version-3-1-4)
+  - [v3.1.2](#version-3-1-2)
 - [Feature Requests](#feature-requests)
     1. [General UI/UX Enhancements](#general-uiux-enhancements)
     2. [PDF and Document Management](#pdf-and-document-management)
@@ -20,7 +18,7 @@
 
 ## Version 3.1.4
 
-### Completed as of 3.1.4
+### Completed
 - **Completed in Version 3.1.4: Sideloading APKs**:
     - v3.1.4: The upcoming version 3.1.4 is set to include Google Play Store support, which will further expand app availability for the device.  
   *Originally suggested by [remi.flores](https://viwoods.com/pages/community#/post/e3d04190-3bb9-4b16-af57-455cef508ee2) on Oct 21, 2024*
@@ -48,7 +46,7 @@
 ---
 
 # Version 3.1.2
-### Completed as of 3.1.2
+### Completed
   
 - **Completed in Version 3.1.2: Sideloading APKs**:
     - v3.1.2: Viwoods has introduced support for sideloading apps via the APKPure app, available in the app store. This allows users to download and install compatible APKs directly.
